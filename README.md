@@ -6,7 +6,7 @@ Sou aluno da escola de programação Infity School, localizada em Fortaleza-CE. 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-barreto-a6a934260/)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBarretto&show_icons=true&theme=radical)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBarretto&show_icons=true&theme=dracula)
 
 ## Tecnologias que utilizo no meu dia a dia<br/>
 Apaixonado por programação e tecnologia em geral, busco tornar mais fácil a vida das pessoas através da programação. Sou estudante da linguagem JavaScript e suas tecnologias. Possuo conhecimento básico em HTML5 e CSS3.
